@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/956138269622566932/1234027844078932051/435900593_832500118918184_358986322042710677_n.jpg_1713312233323.jpg?ex=6664a23d&is=666350bd&hm=8495729ec0319536cb893f0b1c061edc003a065e70a63575226bcbfb2501ff94&" align="center" style="width: 50%" />
+<img src="https://cdn.discordapp.com/attachments/956138269622566932/1234027844078932051/435900593_832500118918184_358986322042710677_n.jpg_1713312233323.jpg?ex=6664a23d&is=666350bd&hm=8495729ec0319536cb893f0b1c061edc003a065e70a63575226bcbfb2501ff94&" align="center" style="width: 25%" />
 </div>  
   
 
-### <div align="center">Hello World! My name is Bern. I'm 22 years old and based in Los Baños, PH. A UX/UI designer and front-end developer.</div>  
+### <div align="center">Hello World! My name is Bern. I'm a 22 years old UX/UI designer and front-end developer based in Los Baños, Philippines. Nice to meet you!</div>  
   
 
 - ✨ I’m aspiring to be a full-stack developer in web development.  
