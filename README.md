@@ -3,17 +3,16 @@
 </div>  
   
 
-### <div align="center">Hello World! My name is Bern. I'm 22 years old and based in Los Baños, PH. A UX/UI designer and front-end developer.</div>  
+### <div align="center">Hello World! My name is Bern. I'm 22 years old UX/UI designer and front-end developer based in Los Baños, Philippines. Nice to meet you!</div>  
   
 
 - ✨ I’m aspiring to be a full-stack developer in web development.  
-  
 
 - 📚 I'm currently a fourth-year student studying at the University of the Philippines Los Baños, to get a bachelor's degree in Computer Science.  
-  
 
 - ☕ Likes to drink coffee or headbop to music while coding.  
-  
+
+- 🤝 I also like to volunteer and help out other people within the community.
 
 <br/>  
 
