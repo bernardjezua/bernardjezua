@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/956138269622566932/1248721795901685821/267664124_205531871782523_8847292731849424924_n.png?ex=6664b24c&is=666360cc&hm=ac467e3cf983e2dbe159797a2f0e9abf409f0c5b150e7e47ce8c5437c7420b31&" align="center" style="width: 20%" />
-<img src="https://cdn.discordapp.com/attachments/956138269622566932/1248721733788110959/333284026_517429707104512_4137811180148781637_n.png?ex=6664b23d&is=666360bd&hm=814123be3b29f7e6425f80b327aa44ea1daedd51d03af891119261c807731ed1&" align="center" style="width: 20%" />
-<img src="https://cdn.discordapp.com/attachments/956138269622566932/1248728394368024596/image0.jpg?ex=6664b871&is=666366f1&hm=f09bfc03dee72d7a4ea705632abbf28cece75aa50db2001958ed8eac620821c8&" align="center" style="width: 20%" />
+<img src="https://drive.google.com/file/d/1PLS3obzA9f7RfjYSloK6XNyMhLbjaJnj/view?usp=drive_link" align="center" style="width: 20%" />
+<img src="https://drive.google.com/file/d/1H0V6HUtldATrpoxogXSn9hqi-ZYXN0kZ/view?usp=drive_link" align="center" style="width: 20%" />
+<img src="https://drive.google.com/file/d/1sExDMY4a60KZC-mFtHKBY5mPiCQ8N6bO/view?usp=drive_link" align="center" style="width: 20%" />
 </div>  
-  
+
 
 ### <div align="center">Hello World! My name is Bern. I'm 22 years old UX/UI designer and front-end developer based in Los Baños, Philippines. Nice to meet you!</div>  
   
