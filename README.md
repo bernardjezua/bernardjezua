@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1PLS3obzA9f7RfjYSloK6XNyMhLbjaJnj/view" align="center" style="width: 20%" />
-<img src="https://drive.google.com/file/d/1H0V6HUtldATrpoxogXSn9hqi-ZYXN0kZ/view" align="center" style="width: 20%" />
-<img src="https://drive.google.com/file/d/1sExDMY4a60KZC-mFtHKBY5mPiCQ8N6bO/view" align="center" style="width: 20%" />
+<img src="https://imgur.com/eY8lBKP" align="center" style="width: 20%" />
+<img src="https://imgur.com/qS1NTDu" align="center" style="width: 20%" />
+<img src="https://imgur.com/M31mnyo" align="center" style="width: 20%" />
 </div>  
 
 
