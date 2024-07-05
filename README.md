@@ -5,7 +5,7 @@
 </div>  
 
 
-### <div align="center">Hello World! My name is Bern. I'm 22 years old UX/UI designer and front-end developer based in Los Baños, Philippines. Nice to meet you!</div>  
+### <div align="center">Hello World! My name is Bern. I'm a 22 years old UX/UI designer and front-end developer based in Los Baños, Philippines. Aspiring to be a full-stack developer, nice to meet you!</div>  
   
 
 - ✨ I’m aspiring to be a full-stack developer in web development.  
