@@ -19,7 +19,6 @@
 
 ## My Skill Set
 <table><tr><td valign="top" width="25%">
-
 ### Main
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
